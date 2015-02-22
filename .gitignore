@@ -2,3 +2,6 @@
 !cv_10.tex
 !friggeri-cv.cls
 !.gitignore
+!build.py
+!out
+!out/*.pdf
